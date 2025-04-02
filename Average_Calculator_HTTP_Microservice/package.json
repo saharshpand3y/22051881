@@ -1,0 +1,19 @@
+{
+  "name": "average_calculator_http_microservice",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saharshpand3y/22051881.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saharshpand3y/22051881/issues"
+  },
+  "homepage": "https://github.com/saharshpand3y/22051881#readme",
+  "description": ""
+}
